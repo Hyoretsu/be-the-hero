@@ -1,1 +1,1 @@
-Esse é todo o meu progresso durante a Semana OmniStack 11.0, aprendendo Node.js, React e React Native em uma semana. (testes do backend desenvolvidos por conta própria)
+Esse é todo o meu progresso durante a Semana OmniStack 11.0, desenvolvendo um aplicativo que utilize Node.js, React e React Native em apenas uma semana, antes de ingressar na faculdade. (testes do backend desenvolvidos por conta própria)
